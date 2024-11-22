@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### AI Projects (b/c everythign is AI now)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Deep learning on satellite images](/sample_page)
+<img src="images/deep_learning_thumb.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bayesian b/c Im cool](/images/Bayes_poster.pdf)
+<img src="images/Bayes_poster_thumb.jpg?raw=true"/>
+
+---
+[KLRFOme the ML library no one uses](https://github.com/mrecos/klrfome)
+<img src="images/KLRFome_thumb.png?raw=true"/>
 
 ---
 
